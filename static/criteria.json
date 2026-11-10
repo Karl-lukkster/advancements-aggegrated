@@ -1,208 +1,62 @@
 {
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "crying_obsidian": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
-    "criteria": {
-      "allay_deliver_item_to_player": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/froglights": {
-    "criteria": {
-      "froglights": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/use_lodestone": {
-    "criteria": {
-      "use_lodestone": ""
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "",
-      "iron_chestplate": "",
-      "iron_leggings": "",
-      "iron_helmet": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/minecraft_trials_edition": {
-    "criteria": {
-      "minecraft_trials_edition": ""
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": ""
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/leash_all_frog_variants": {
-    "criteria": {
-      "minecraft:warm": "",
-      "minecraft:temperate": "",
-      "minecraft:cold": ""
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:spotted": "",
-      "minecraft:rusty": "",
-      "minecraft:chestnut": "",
-      "minecraft:striped": "",
-      "minecraft:woods": "",
-      "minecraft:pale": "",
-      "minecraft:black": "",
-      "minecraft:ashen": "",
-      "minecraft:snowy": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": ""
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "",
-      "salmon": "",
-      "cod": "",
-      "tropical_fish": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "",
-      "minecraft:nether_wastes": "",
-      "minecraft:soul_sand_valley": "",
-      "minecraft:basalt_deltas": "",
-      "minecraft:warped_forest": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/overoverkill": {
-    "criteria": {
-      "overoverkill": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/ride_strider": {
-    "criteria": {
-      "used_warped_fungus_on_a_stick": ""
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/all_effects": {
-    "criteria": {
-      "all_effects": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/bullseye": {
-    "criteria": {
-      "bullseye": ""
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/two_birds_one_arrow": {
-    "criteria": {
-      "two_birds": ""
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/silk_touch_nest": {
-    "criteria": {
-      "silk_touch_nest": ""
+      "minecraft:snowy_slopes": "",
+      "minecraft:old_growth_pine_taiga": "",
+      "minecraft:mushroom_fields": "",
+      "minecraft:taiga": "",
+      "minecraft:deep_ocean": "",
+      "minecraft:eroded_badlands": "",
+      "minecraft:frozen_river": "",
+      "minecraft:cherry_grove": "",
+      "minecraft:sunflower_plains": "",
+      "minecraft:birch_forest": "",
+      "minecraft:windswept_hills": "",
+      "minecraft:wooded_badlands": "",
+      "minecraft:bamboo_jungle": "",
+      "minecraft:badlands": "",
+      "minecraft:savanna_plateau": "",
+      "minecraft:beach": "",
+      "minecraft:dark_forest": "",
+      "minecraft:stony_peaks": "",
+      "minecraft:mangrove_swamp": "",
+      "minecraft:sparse_jungle": "",
+      "minecraft:river": "",
+      "minecraft:lukewarm_ocean": "",
+      "minecraft:stony_shore": "",
+      "minecraft:snowy_plains": "",
+      "minecraft:dripstone_caves": "",
+      "minecraft:snowy_taiga": "",
+      "minecraft:grove": "",
+      "minecraft:swamp": "",
+      "minecraft:jagged_peaks": "",
+      "minecraft:cold_ocean": "",
+      "minecraft:forest": "",
+      "minecraft:lush_caves": "",
+      "minecraft:deep_cold_ocean": "",
+      "minecraft:ice_spikes": "",
+      "minecraft:frozen_ocean": "",
+      "minecraft:desert": "",
+      "minecraft:deep_frozen_ocean": "",
+      "minecraft:windswept_forest": "",
+      "minecraft:ocean": "",
+      "minecraft:jungle": "",
+      "minecraft:old_growth_spruce_taiga": "",
+      "minecraft:snowy_beach": "",
+      "minecraft:windswept_savanna": "",
+      "minecraft:warm_ocean": "",
+      "minecraft:deep_lukewarm_ocean": "",
+      "minecraft:flower_forest": "",
+      "minecraft:dappled_forest": "",
+      "minecraft:frozen_peaks": "",
+      "minecraft:old_growth_birch_forest": "",
+      "minecraft:sulfur_caves": "",
+      "minecraft:deep_dark": "",
+      "minecraft:meadow": "",
+      "minecraft:windswept_gravelly_hills": "",
+      "minecraft:savanna": "",
+      "minecraft:plains": "",
+      "minecraft:pale_garden": ""
     },
     "done": true
   },
@@ -212,279 +66,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/under_lock_and_key": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "under_lock_and_key": ""
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/charge_respawn_anchor": {
-    "criteria": {
-      "charge_respawn_anchor": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/revaulting": {
-    "criteria": {
-      "revaulting": ""
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "",
-      "diamond_helmet": "",
-      "diamond_chestplate": "",
-      "diamond_boots": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tadpole_in_a_bucket": {
-    "criteria": {
-      "tadpole_bucket": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": ""
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "",
-      "minecraft:blaze": "",
-      "minecraft:skeleton": "",
-      "minecraft:zoglin": "",
-      "minecraft:elder_guardian": "",
-      "minecraft:parched": "",
-      "minecraft:ravager": "",
-      "minecraft:bogged": "",
-      "minecraft:ghast": "",
-      "minecraft:hoglin": "",
-      "minecraft:camel_husk": "",
-      "minecraft:guardian": "",
-      "minecraft:creaking": "",
-      "minecraft:zombie_horse": "",
-      "minecraft:breeze": "",
-      "minecraft:vindicator": "",
-      "minecraft:magma_cube": "",
-      "minecraft:piglin_brute": "",
-      "minecraft:spider": "",
-      "minecraft:creeper": "",
-      "minecraft:wither": "",
-      "minecraft:slime": "",
-      "minecraft:evoker": "",
-      "minecraft:zombie_nautilus": "",
-      "minecraft:phantom": "",
-      "minecraft:zombified_piglin": "",
-      "minecraft:witch": "",
-      "minecraft:wither_skeleton": "",
-      "minecraft:husk": "",
-      "minecraft:ender_dragon": "",
-      "minecraft:shulker": "",
-      "minecraft:cave_spider": "",
-      "minecraft:piglin": "",
-      "minecraft:enderman": "",
-      "minecraft:silverfish": "",
-      "minecraft:stray": "",
-      "minecraft:endermite": "",
-      "minecraft:vex": "",
-      "minecraft:zombie": "",
-      "minecraft:drowned": "",
-      "minecraft:zombie_villager": ""
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/spyglass_at_parrot": {
-    "criteria": {
-      "spyglass_at_parrot": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/allay_deliver_cake_to_note_block": {
-    "criteria": {
-      "allay_deliver_cake_to_note_block": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/spyglass_at_dragon": {
-    "criteria": {
-      "spyglass_at_dragon": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade_at_world_height": {
-    "criteria": {
-      "trade_at_world_height": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/spear_many_mobs": {
-    "criteria": {
-      "spear_many_mobs": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/play_jukebox_in_meadows": {
-    "criteria": {
-      "play_jukebox_in_meadows": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/safely_harvest_honey": {
-    "criteria": {
-      "safely_harvest_honey": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/spyglass_at_ghast": {
-    "criteria": {
-      "spyglass_at_ghast": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:dune_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:bolt_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:shaper_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:flow_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:host_armor_trim_smithing_template_smithing_trim": "",
-      "armor_trimmed_minecraft:raiser_armor_trim_smithing_template_smithing_trim": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/uneasy_alliance": {
-    "criteria": {
-      "killed_ghast": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/kill_axolotl_target": {
-    "criteria": {
-      "kill_axolotl_target": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": ""
+      "avoid_vibration": ""
     },
     "done": true
   },
@@ -494,74 +78,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
+  "minecraft:adventure/brush_armadillo": {
     "criteria": {
-      "minecraft:white": "",
-      "minecraft:tabby": "",
-      "minecraft:calico": "",
-      "minecraft:siamese": "",
-      "minecraft:persian": "",
-      "minecraft:jellie": "",
-      "minecraft:black": "",
-      "minecraft:all_black": "",
-      "minecraft:ragdoll": "",
-      "minecraft:british_shorthair": "",
-      "minecraft:red": ""
+      "brush_armadillo": ""
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "minecraft:adventure/bullseye": {
     "criteria": {
-      "distract_piglin": "",
-      "distract_piglin_directly": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/repair_wolf_armor": {
-    "criteria": {
-      "repair_wolf_armor": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/very_very_frightening": {
-    "criteria": {
-      "struck_villager": ""
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/place_dried_ghast_in_water": {
-    "criteria": {
-      "place_dried_ghast_in_water": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/ride_a_boat_with_a_goat": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/all_potions": {
-    "criteria": {
-      "all_effects": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": ""
+      "bullseye": ""
     },
     "done": true
   },
@@ -571,179 +96,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "minecraft:adventure/crafters_crafting_crafters": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": ""
+      "crafter_crafted_crafter": ""
     },
     "done": true
   },
   "minecraft:adventure/fall_from_world_height": {
     "criteria": {
       "fall_from_world_height": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/remove_wolf_armor": {
-    "criteria": {
-      "remove_wolf_armor": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/sniper_duel": {
-    "criteria": {
-      "killed_skeleton": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:donkey": "",
-      "minecraft:mule": "",
-      "minecraft:hoglin": "",
-      "minecraft:sniffer": "",
-      "minecraft:strider": "",
-      "minecraft:nautilus": "",
-      "minecraft:cow": "",
-      "minecraft:camel": "",
-      "minecraft:horse": "",
-      "minecraft:bee": "",
-      "minecraft:cat": "",
-      "minecraft:fox": "",
-      "minecraft:pig": "",
-      "minecraft:llama": "",
-      "minecraft:turtle": "",
-      "minecraft:frog": "",
-      "minecraft:sheep": "",
-      "minecraft:mooshroom": "",
-      "minecraft:ocelot": "",
-      "minecraft:goat": "",
-      "minecraft:chicken": "",
-      "minecraft:armadillo": "",
-      "minecraft:wolf": "",
-      "minecraft:panda": "",
-      "minecraft:rabbit": "",
-      "minecraft:axolotl": ""
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "cod_bucket": "",
-      "tropical_fish_bucket": "",
-      "salmon_bucket": "",
-      "pufferfish_bucket": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "",
-      "ocean_ruin_cold": "",
-      "desert_well": "",
-      "trail_ruins_rare": "",
-      "trail_ruins_common": "",
-      "desert_pyramid": "",
-      "ocean_ruin_warm": ""
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/feed_snifflet": {
-    "criteria": {
-      "feed_snifflet": ""
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": ""
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": ""
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "",
-      "loot_bastion_hoglin_stable": "",
-      "loot_bastion_treasure": "",
-      "loot_bastion_bridge": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/lighten_up": {
-    "criteria": {
-      "lighten_up": ""
-    },
-    "done": true
-  },
-  "minecraft:end/respawn_dragon": {
-    "criteria": {
-      "summoned_dragon": ""
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": ""
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "",
-      "killed_something": ""
     },
     "done": true
   },
@@ -755,27 +116,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/obtain_sniffer_egg": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "obtain_sniffer_egg": ""
+      "hero_of_the_village": ""
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:adventure/honey_block_slide": {
     "criteria": {
-      "in_stronghold": ""
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": ""
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_netherite_hoe": {
-    "criteria": {
-      "netherite_hoe": ""
+      "honey_block_slide": ""
     },
     "done": true
   },
@@ -825,112 +174,351 @@
     },
     "done": true
   },
-  "minecraft:adventure/brush_armadillo": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "brush_armadillo": ""
+      "minecraft:pillager": "",
+      "minecraft:blaze": "",
+      "minecraft:skeleton": "",
+      "minecraft:zoglin": "",
+      "minecraft:elder_guardian": "",
+      "minecraft:parched": "",
+      "minecraft:ravager": "",
+      "minecraft:bogged": "",
+      "minecraft:ghast": "",
+      "minecraft:hoglin": "",
+      "minecraft:camel_husk": "",
+      "minecraft:guardian": "",
+      "minecraft:creaking": "",
+      "minecraft:zombie_horse": "",
+      "minecraft:breeze": "",
+      "minecraft:vindicator": "",
+      "minecraft:magma_cube": "",
+      "minecraft:piglin_brute": "",
+      "minecraft:spider": "",
+      "minecraft:creeper": "",
+      "minecraft:wither": "",
+      "minecraft:slime": "",
+      "minecraft:evoker": "",
+      "minecraft:zombie_nautilus": "",
+      "minecraft:phantom": "",
+      "minecraft:zombified_piglin": "",
+      "minecraft:witch": "",
+      "minecraft:wither_skeleton": "",
+      "minecraft:husk": "",
+      "minecraft:ender_dragon": "",
+      "minecraft:shulker": "",
+      "minecraft:cave_spider": "",
+      "minecraft:piglin": "",
+      "minecraft:enderman": "",
+      "minecraft:silverfish": "",
+      "minecraft:stray": "",
+      "minecraft:endermite": "",
+      "minecraft:vex": "",
+      "minecraft:zombie": "",
+      "minecraft:drowned": "",
+      "minecraft:zombie_villager": ""
     },
     "done": true
   },
-  "minecraft:husbandry/plant_any_sniffer_seed": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "torchflower": "",
-      "pitcher_pod": ""
+      "kill_mob_near_sculk_catalyst": ""
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:adventure/lighten_up": {
     "criteria": {
-      "minecraft:snowy_slopes": "",
-      "minecraft:old_growth_pine_taiga": "",
-      "minecraft:mushroom_fields": "",
-      "minecraft:taiga": "",
-      "minecraft:deep_ocean": "",
-      "minecraft:eroded_badlands": "",
-      "minecraft:frozen_river": "",
-      "minecraft:cherry_grove": "",
-      "minecraft:sunflower_plains": "",
-      "minecraft:birch_forest": "",
-      "minecraft:windswept_hills": "",
-      "minecraft:wooded_badlands": "",
-      "minecraft:bamboo_jungle": "",
-      "minecraft:badlands": "",
-      "minecraft:savanna_plateau": "",
-      "minecraft:beach": "",
-      "minecraft:dark_forest": "",
-      "minecraft:stony_peaks": "",
-      "minecraft:mangrove_swamp": "",
-      "minecraft:sparse_jungle": "",
-      "minecraft:river": "",
-      "minecraft:lukewarm_ocean": "",
-      "minecraft:stony_shore": "",
-      "minecraft:snowy_plains": "",
-      "minecraft:dripstone_caves": "",
-      "minecraft:snowy_taiga": "",
-      "minecraft:grove": "",
-      "minecraft:swamp": "",
-      "minecraft:jagged_peaks": "",
-      "minecraft:cold_ocean": "",
-      "minecraft:forest": "",
-      "minecraft:lush_caves": "",
-      "minecraft:deep_cold_ocean": "",
-      "minecraft:ice_spikes": "",
-      "minecraft:frozen_ocean": "",
-      "minecraft:desert": "",
-      "minecraft:deep_frozen_ocean": "",
-      "minecraft:windswept_forest": "",
-      "minecraft:ocean": "",
-      "minecraft:jungle": "",
-      "minecraft:old_growth_spruce_taiga": "",
-      "minecraft:snowy_beach": "",
-      "minecraft:windswept_savanna": "",
-      "minecraft:warm_ocean": "",
-      "minecraft:deep_lukewarm_ocean": "",
-      "minecraft:flower_forest": "",
-      "minecraft:frozen_peaks": "",
-      "minecraft:old_growth_birch_forest": "",
-      "minecraft:sulfur_caves": "",
-      "minecraft:deep_dark": "",
-      "minecraft:meadow": "",
-      "minecraft:windswept_gravelly_hills": "",
-      "minecraft:savanna": "",
-      "minecraft:plains": "",
-      "minecraft:pale_garden": ""
+      "lighten_up": ""
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "torchflower": "",
-      "beetroots": "",
-      "pumpkin_stem": "",
-      "melon_stem": "",
-      "nether_wart": "",
-      "pitcher_pod": "",
-      "wheat": ""
+      "lightning_rod_with_villager_no_fire": ""
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
-      "bastion": ""
+      "minecraft_trials_edition": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/overoverkill": {
+    "criteria": {
+      "overoverkill": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+    "criteria": {
+      "comparator": "",
+      "chiseled_bookshelf": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "",
+      "killed_something": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "",
+      "ocean_ruin_cold": "",
+      "desert_well": "",
+      "trail_ruins_rare": "",
+      "trail_ruins_common": "",
+      "desert_pyramid": "",
+      "ocean_ruin_warm": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/spear_many_mobs": {
+    "criteria": {
+      "spear_many_mobs": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_dragon": {
+    "criteria": {
+      "spyglass_at_dragon": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_ghast": {
+    "criteria": {
+      "spyglass_at_ghast": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade_at_world_height": {
+    "criteria": {
+      "trade_at_world_height": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:dune_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:bolt_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:shaper_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:flow_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:host_armor_trim_smithing_template_smithing_trim": "",
+      "armor_trimmed_minecraft:raiser_armor_trim_smithing_template_smithing_trim": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/two_birds_one_arrow": {
+    "criteria": {
+      "two_birds": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/use_lodestone": {
+    "criteria": {
+      "use_lodestone": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": ""
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": ""
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": ""
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": ""
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": ""
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": ""
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": ""
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": ""
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": ""
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": ""
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_cake_to_note_block": {
+    "criteria": {
+      "allay_deliver_cake_to_note_block": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": ""
     },
     "done": true
   },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/ride_strider_in_overworld_lava": {
-    "criteria": {
-      "ride_entity_distance": ""
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": ""
     },
     "done": true
   },
@@ -979,46 +567,191 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "travelled": ""
+      "minecraft:donkey": "",
+      "minecraft:mule": "",
+      "minecraft:hoglin": "",
+      "minecraft:sniffer": "",
+      "minecraft:strider": "",
+      "minecraft:nautilus": "",
+      "minecraft:cow": "",
+      "minecraft:camel": "",
+      "minecraft:horse": "",
+      "minecraft:bee": "",
+      "minecraft:cat": "",
+      "minecraft:fox": "",
+      "minecraft:pig": "",
+      "minecraft:llama": "",
+      "minecraft:turtle": "",
+      "minecraft:frog": "",
+      "minecraft:sheep": "",
+      "minecraft:mooshroom": "",
+      "minecraft:ocelot": "",
+      "minecraft:goat": "",
+      "minecraft:chicken": "",
+      "minecraft:armadillo": "",
+      "minecraft:wolf": "",
+      "minecraft:panda": "",
+      "minecraft:rabbit": "",
+      "minecraft:axolotl": ""
     },
     "done": true
   },
-  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "comparator": "",
-      "chiseled_bookshelf": ""
+      "bred": ""
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "diamond": ""
+      "minecraft:white": "",
+      "minecraft:tabby": "",
+      "minecraft:calico": "",
+      "minecraft:siamese": "",
+      "minecraft:persian": "",
+      "minecraft:jellie": "",
+      "minecraft:black": "",
+      "minecraft:all_black": "",
+      "minecraft:ragdoll": "",
+      "minecraft:british_shorthair": "",
+      "minecraft:red": ""
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:husbandry/feed_snifflet": {
     "criteria": {
-      "fortress": ""
+      "feed_snifflet": ""
     },
     "done": true
   },
-  "minecraft:adventure/crafters_crafting_crafters": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "crafter_crafted_crafter": ""
+      "pufferfish": "",
+      "salmon": "",
+      "cod": "",
+      "tropical_fish": ""
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:husbandry/froglights": {
     "criteria": {
-      "crafting_table": ""
+      "froglights": ""
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:husbandry/kill_axolotl_target": {
     "criteria": {
-      "entered_end": ""
+      "kill_axolotl_target": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:warm": "",
+      "minecraft:temperate": "",
+      "minecraft:cold": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "",
+      "pitcher_pod": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "torchflower": "",
+      "beetroots": "",
+      "pumpkin_stem": "",
+      "melon_stem": "",
+      "nether_wart": "",
+      "pitcher_pod": "",
+      "wheat": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/remove_wolf_armor": {
+    "criteria": {
+      "remove_wolf_armor": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/repair_wolf_armor": {
+    "criteria": {
+      "repair_wolf_armor": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "",
+      "tropical_fish_bucket": "",
+      "salmon_bucket": "",
+      "pufferfish_bucket": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": ""
     },
     "done": true
   },
@@ -1029,9 +762,277 @@
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:husbandry/wax_off": {
     "criteria": {
-      "who_needs_rockets": ""
+      "wax_off": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": ""
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:spotted": "",
+      "minecraft:rusty": "",
+      "minecraft:chestnut": "",
+      "minecraft:striped": "",
+      "minecraft:woods": "",
+      "minecraft:pale": "",
+      "minecraft:black": "",
+      "minecraft:ashen": "",
+      "minecraft:snowy": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/all_effects": {
+    "criteria": {
+      "all_effects": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/all_potions": {
+    "criteria": {
+      "all_effects": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "",
+      "distract_piglin_directly": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "",
+      "minecraft:nether_wastes": "",
+      "minecraft:soul_sand_valley": "",
+      "minecraft:basalt_deltas": "",
+      "minecraft:warped_forest": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "",
+      "loot_bastion_hoglin_stable": "",
+      "loot_bastion_treasure": "",
+      "loot_bastion_bridge": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider_in_overworld_lava": {
+    "criteria": {
+      "ride_entity_distance": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": ""
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": ""
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": ""
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": ""
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": ""
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": ""
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": ""
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": ""
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": ""
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": ""
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": ""
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": ""
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": ""
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "",
+      "iron_chestplate": "",
+      "iron_leggings": "",
+      "iron_helmet": ""
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": ""
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "",
+      "diamond_helmet": "",
+      "diamond_chestplate": "",
+      "diamond_boots": ""
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": ""
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": ""
     },
     "done": true
   },
@@ -1115,5 +1116,6 @@
     "done": true
   },
   
-  "DataVersion": 4903
+
+  "DataVersion": 5023
 }
